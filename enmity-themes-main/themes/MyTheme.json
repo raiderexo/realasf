@@ -1,7 +1,7 @@
 {
-  "name": "MyTheme",
-  "description": "Idk.",
-  "version": "1.2",
+  "name": "Hanging Theme",
+  "description": "No clue.",
+  "version": "1.0",
   "authors": [
     {
       "name": "Exo",
@@ -10,11 +10,11 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#afc7e3",
+      "#eb0e33",
       "#060607"
     ],
     "HEADER_SECONDARY": [
-      "#c8c8c8",
+      "#807c7c",
       "#4f5660"
     ],
     "TEXT_NORMAL": [
@@ -22,11 +22,11 @@
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#afc7e3",
-      "#747f8d"
+      "#eb0e33",
+      "#f70233"
     ],
     "INTERACTIVE_NORMAL": [
-      "#6f96c5",
+      "#ff0026",
       "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
@@ -38,43 +38,43 @@
       "#060607"
     ],
     "INTERACTIVE_MUTED": [
-      "#6f96c5",
+      "#ff0026",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0b101a",
+      "#111011",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0b101a",
+      "#111011",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#161f28",
+      "#141414",
       "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#161f28",
+      "#141414",
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#6f96c5",
-      "#747f8d"
+      "#ff0026",
+      "#ff0026"
     ],
     "BACKGROUND_FLOATING": [
-      "#161f28",
+      "#141414",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#161f28",
-      "#f8f9f9"
+      "#141414",
+      "#ff0026"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#0b101a",
+      "#111011",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#0b101a",
+      "#111011",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -118,39 +118,39 @@
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "#c8c8c8",
-      "#6a7480"
+      "#eb0e33",
+      "#eb0e33"
     ],
     "TEXT_LINK": [
-      "#babfeb",
-      "#161f28"
+      "#00eaff",
+      "#000000"
     ],
     "KEYBOARD": [
-      "#0b101a",
+      "#111011",
       "#FFFFFF"
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#747473",
+    "PRIMARY_DARK": "#747474",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#bebee3",
-    "PRIMARY_DARK_500": "#697eab",
-    "PRIMARY_DARK_600": "#0b101a",
-    "PRIMARY_DARK_630": "#1a242e",
-    "PRIMARY_DARK_700": "#13161d",
-    "PRIMARY_DARK_800": "#202735",
-    "BRAND_NEW": "#1a242e",
-    "STATUS_RED": "#6f96c5",
-    "STATUS_GREEN_600": "#6f96c5"
+    "PRIMARY_DARK_300": "#807c7c",
+    "PRIMARY_DARK_360": "#eb0e33",
+    "PRIMARY_DARK_400": "#807c7c",
+    "PRIMARY_DARK_500": "#34a4fa",
+    "PRIMARY_DARK_600": "#111011",
+    "PRIMARY_DARK_630": "#141414",
+    "PRIMARY_DARK_700": "#101010",
+    "PRIMARY_DARK_800": "#111011",
+    "BRAND_NEW": "#12a0ff",
+    "STATUS_RED": "#f7071f",
+    "STATUS_GREEN_600": "#f7071f"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#0b101a"
+    "CHAT_GREY": "#111011"
   },
   "background": {
-    "blur": 0.1,
+    "blur": 13.4,
     "url": "https://cdn.discordapp.com/attachments/1085981917293322292/1091381887752228864/hanging-man.png",
     "alpha": 1.0
   }
